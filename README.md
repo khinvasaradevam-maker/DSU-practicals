@@ -1,0 +1,2 @@
+# DSU-practicals
+All practical 
